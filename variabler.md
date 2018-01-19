@@ -37,3 +37,14 @@ let boolean1 = true;
 let boolean2 = false;
 ```
 ## Arrays
+en Array er en måde du kan gemme lister i en variabel, det er meget nyttigt at bruge hvis man vil have flere værdier i en variabel istetdet for at lave umådeligt mange variabler. f.eks...
+
+```javascript
+let navne = ['Anna', 'Pia', 'Nanna', 'Joakim', 'Konrad'];
+```
+
+Du kan også lave arrays i et Array, som følgende:
+
+```javascript
+let navneOGalder = [['Anna', '20'] , ['Pia', '17'], ['Nanna', '40'], ['Joakim' '32'], ['Konrad', '23']];
+```
